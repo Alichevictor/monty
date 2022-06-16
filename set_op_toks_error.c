@@ -1,7 +1,7 @@
 /*
  * File: set_op_tok_error.c
- * Auth: Balogun Murtadho
- * 	 Boniface odinakachi
+ * Auth: Aliche victor
+ * 	 Salami odunayo
  */
 
 #include "monty.h"
@@ -33,6 +33,7 @@ void set_op_tok_error(int error_code)
 	{
 		free(new_toks);
 		malloc_error();
+		
 		return;
 	}
 	new_toks[i++] = exit_str;
