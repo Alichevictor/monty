@@ -1,6 +1,6 @@
 /*
  * File: int_to_string.c
- * Auth: Aliche victor
+ * Auth: Victor Aliche
        : Salami odunayo
  */
 

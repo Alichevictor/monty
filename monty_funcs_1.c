@@ -1,6 +1,6 @@
 /*
  * File: monty_funcs_1.c
- * Auth: Aliche victor
+ * Auth: Victor Aliche
  *       Salami odunayo
  */
 
