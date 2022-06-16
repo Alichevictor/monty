@@ -1,7 +1,7 @@
 /*
  * File: tokenize_string.c
- * Auth: Balogun Murtadho
- * 	 Boniface Odinakachi
+ * Auth: Aliche Victor
+ * 	 Salami Odunayo
  */
 
 #include <stdlib.h>
