@@ -1,7 +1,7 @@
 /*
  * File: monty_main.c
- * Auth: Balogun Murtadho
- *       Boniface Odinakachi
+ * Auth: Victor Aliche
+ *       Salami odunayo
  */
 
 #include "monty.h"
