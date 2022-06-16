@@ -1,6 +1,6 @@
 /*
  * File: set_op_tok_error.c
- * Auth: Aliche victor
+ * Auth: Victor Aliche
  * 	 Salami odunayo
  */
 
