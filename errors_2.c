@@ -1,6 +1,6 @@
 /*
  * File: errors_2.c
- * Auth: Aliche victor
+ * Auth: Victor Aliche
  *       Salami odunayo
  */
 
