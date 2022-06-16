@@ -1,6 +1,6 @@
 /*
  * File: stack.c
- * Auth: Aliche victor
+ * Auth: Victor Aliche
  *       salami odunayo
  */
 
