@@ -1,7 +1,7 @@
 /*
  * File: stack.c
- * Auth: Balogun Murtadho
- *       Boniface Odinakachi
+ * Auth: Aliche victor
+ *       salami odunayo
  */
 
 #include "monty.h"
@@ -33,6 +33,7 @@ void free_stack(stack_t **stack)
  *              stack and ending queue nodes.
  * @stack: A pointer to an unitialized stack_t stack.
  *
+ 
  * Return: If an error occurs - EXIT_FAILURE.
  *         Otherwise - EXIT_SUCCESS.
  */
